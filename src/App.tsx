@@ -1,6 +1,9 @@
+import Header from "./components/Header/index.jsx"
 function App() {
   return (
-    <p>Hello Word</p>
+    <>
+      <Header />
+    </>
   );
 };
 

@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&family=Sen:wght@400..800&display=swap');
+
 @import "tailwindcss";
 
 @theme {
@@ -8,4 +10,8 @@
     margin-left: auto;
     margin-right: auto;
     max-width: 1200px;
+}
+
+* {
+    font-family: "Google Sans Flex", sans-serif;
 }
